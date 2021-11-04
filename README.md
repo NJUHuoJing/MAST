@@ -15,7 +15,7 @@ git clone https://github.com/NJUHuoJing/MAST.git
 
 prepare the checkpoints:
 ```
-cd MAST_RELEASE
+cd MAST
 chmod 777 scripts/prepare_data.sh
 scripts/prepare_data.sh
 ```
