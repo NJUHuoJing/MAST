@@ -10,7 +10,7 @@ suitable device, try running our [Colab demo](https://colab.research.google.com/
 
 Clone the repo:
 ```
-git clone https://github.com/JinShiyin/MAST_RELEASE.git
+git clone https://github.com/NJUHuoJing/MAST.git
 ```
 
 prepare the checkpoints:
