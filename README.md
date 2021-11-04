@@ -81,6 +81,7 @@ prepared: [Colab Demo](https://colab.research.google.com/drive/1JVGtVCk9D7c7fZv_
     author = {Jing Huo and Shiyin Jin and Wenbin Li and Jing Wu and Yu{-}Kun Lai and Yinghuan Shi and Yang Gao},
     title = {Manifold Alignment for Semantically Aligned Style Transfer},
     booktitle = {IEEE International Conference on Computer Vision},
+    pages = {14861-14869},
     year = {2021}
 }
 ```
