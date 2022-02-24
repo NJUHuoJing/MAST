@@ -13,7 +13,8 @@ Clone the repo:
 git clone https://github.com/NJUHuoJing/MAST.git
 ```
 
-Prepare the checkpoints:
+Prepare the checkpoints:  
+
 download checkpoints in [checkpoints.zip](https://drive.google.com/file/d/16R7monpAEN_hFuQPvaB6sYuBJMyaJiK7/view?usp=sharing) and unzip it into the root path of the project.
 
 Install the requirements:
